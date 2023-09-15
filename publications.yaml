@@ -12,14 +12,14 @@ pope_modular_2021:
   venue: PNAS
 
 pope_coevolving_2023:
-title: "Co-evolving dynamics and topology in a coupled oscillator model of resting brain function"
-authors:
-  - me
-  - Caio Seguin
-  - Thomas F. Varley
-  - Joshua Faskowitz
-  - Olaf Sporns
-year: 2023
-code: https://github.com/popeme/coevolving-Kuramoto
-published_url: https://www.sciencedirect.com/science/article/pii/S1053811923004172#sec0026 
-venue: NeuroImage
+  title: "Co-evolving dynamics and topology in a coupled oscillator model of resting brain function"
+  authors:
+    - me
+    - Caio Seguin
+    - Thomas F. Varley
+    - Joshua Faskowitz
+    - Olaf Sporns
+  year: 2023
+  code: https://github.com/popeme/coevolving-Kuramoto
+  published_url: https://www.sciencedirect.com/science/article/pii/S1053811923004172#sec0026 
+  venue: NeuroImage
