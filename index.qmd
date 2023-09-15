@@ -1,6 +1,7 @@
 ---
 title: "Maria Pope"
 ---
+<img src="/assets/images/headshot.jpeg" width="20%" hspace="20" align="right">
 
 I am a dual PhD Student in Neuroscience and Complex Networks and Systems in the NRT Program at Indiana University. Broadly, I am interested in how the structure of complex systems (like the brain) constrains their dynamics, and how we might characterize a system's dynamics in terms of its information content, with a particular focus on higher-order, synergistic interactions. I have been researching some of these questions for the last four years in the lab of Olaf Sporns.
 
