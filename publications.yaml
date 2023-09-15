@@ -6,7 +6,7 @@ pope_modular_2021:
     - Richard F. Betzel
     - Olaf Sporns
   year: 2021
-  pdf: /assets/docs/publications/PNAS_modular.pdf
+  pdf: /assets/docs/publications/PNAS_modular_2021.pdf
   code: https://github.com/brain-networks/KSmodel_fMRIdynamics
   published_url: https://doi.org/10.1073/pnas.2109380118
   venue: PNAS
