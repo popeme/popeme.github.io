@@ -11,7 +11,14 @@
     "href": "index.html",
     "title": "Maria Pope",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a dual PhD Student in Neuroscience and Complex Networks and Systems in the NRT Program at Indiana University. Broadly, I am interested in how the structure of complex systems (like the brain) constrains their dynamics, and how we might characterize a system’s dynamics in terms of its information content, with a particular focus on higher-order, synergistic interactions. I have been researching some of these questions for the last four years in the lab of Olaf Sporns.\nFeel free to take a look at the Publications tab if you’re interested in what we’ve been working on, or drop me an email!"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Maria Pope",
+    "section": "Recent News",
+    "text": "Recent News\n\nJuly 2023: I won the Entropy Best ECR Presentation award for my presentation “Multivariate information theory reveals synergistic subsystems of the human cerebral cortex” at the Information Theory Workshop of CNS*2023.\nJuly 2023: I presented a poster “Co-evolving dynamics and topology in a coupled oscillator model of resting brain function” with the work from my most recent paper at NetSci."
   },
   {
     "objectID": "pages/about.html",
