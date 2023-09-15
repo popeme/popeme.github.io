@@ -11,9 +11,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - publications.qmd
+      - pages/publications.qmd
       - cv.qmd
-      - about.qmd
+      - pages/about.qmd
   page-footer:
         right:
         - icon: envelope
