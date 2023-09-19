@@ -23,3 +23,46 @@ pope_coevolving_2023:
   code: https://github.com/popeme/coevolving-Kuramoto
   published_url: https://www.sciencedirect.com/science/article/pii/S1053811923004172#sec0026 
   venue: NeuroImage
+
+pope_multivariate_2023:
+  title: "Multivariate information theory uncovers synergistic subsystems of the human cerebral cortex"
+  authors:
+    - me
+    - Thomas F. Varley
+    - Joshua Faskowitz
+    - Olaf Sporns
+  year: 2023
+  code: https://github.com/popeme/simulated_annealing
+  published_url: https://www.nature.com/articles/s42003-023-04843-w
+  venue: Communications Biology
+
+varley_partial_2023:
+  title: "Partial entropy decomposition reveals higher-order information structures in human brain activity"
+  authors:
+    - Thomas F. Varley
+    - me
+    - Maria Grazia Puxeddu
+    - Joshua Faskowitz
+    - Olaf Sporns
+  year: 2023
+  published_url: https://www.pnas.org/doi/abs/10.1073/pnas.2300888120
+  venue: PNAS
+
+chumin_cortico_2022:
+  title: "Cortico-subcortical interactions in overlapping communities of edge functional connectivity"
+  authors:
+    - Evgeny J. Chumin
+    - Joshua Faskowitz
+    - Farnaz Zamani Esfahlani
+    - Youngheun Jo
+    - Haily Merritt
+    - Jacob Tanner
+    - Sarah A Cutts
+    - me
+    - Richard Betzel
+    - Olaf Sporns
+  year: 2022
+  published_url: https://www.sciencedirect.com/science/article/pii/S1053811922001008
+  venue: NeuroImage
+
+
