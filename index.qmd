@@ -8,7 +8,10 @@ I am a dual PhD Student in Neuroscience and Complex Networks and Systems in the 
 Feel free to take a look at the Publications tab if you're interested in what we've been working on, or drop me an email!
 
 ## Recent News
-* **June 2024**: I am presenting my work, "Time-varying synergy/redundancy dominance of the human cerebral cortex" as a poster at the Network Neuroscience Satellite and a talk at the main conference of NetSci 2024.
+* **July 2024**: I am giving an invited talk on applications of multivariate information theory to fMRI data at the SIAM Discrete Math conference in Spokane, Washington.
+* **July 2024**: ["The serotonergic psychedelic N, N-dipropyltryptamine alters information-processing dynamics in cortical neural circuits"](https://arxiv.org/abs/2310.20582) was accepted for publication at Network Neuroscience!
+* **June 2024**: I presented my work, ["Time-varying synergy/redundancy dominance of the human cerebral cortex"](https://www.biorxiv.org/content/10.1101/2024.06.14.599102v1) as a poster at the Network Neuroscience Satellite and a talk at the main conference of NetSci 2024.
+* **June 2024**: New preprint applying the local O to fMRI data is posted!! ["Time-varying synergy/redundancy dominance of the human cerebral cortex"](https://www.biorxiv.org/content/10.1101/2024.06.14.599102v1)]
 * **March 2024**: I met with a classroom of high schoolers to chat about neuroscience through the Skype-a-Scientist program.
 * **September 2023**: I visited Purdue University and presented the poster ["Co-evolving dynamics and topology in a coupled oscillator model of resting brain function"](https://doi.org/10.1016/j.neuroimage.2023.120266) at the meeting of the Greater Indiana Society for Neuroscience.
 * **July 2023**: I won the Entropy Best ECR Presentation award for my presentation ["Multivariate information theory reveals synergistic subsystems of the human cerebral cortex"](https://doi.org/10.1038/s42003-023-04843-w) at the Information Theory Workshop of CNS*2023.

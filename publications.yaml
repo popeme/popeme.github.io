@@ -66,3 +66,28 @@ chumin_cortico_2022:
   venue: NeuroImage
 
 
+varley_serotonergic_2024:
+  title: "The serotonergic psychedelic N,N-dipropyltryptamine alters information-processing dynamics in cortical neural circuits"
+  authors:
+    - Thomas F. Varley
+    - Daniel Havert
+    - Leandro Fosque
+    - Abolfazl Alipour
+    - Naruepon Weerawongphrom
+    - Hiroki Naganobori
+    - Lily O'Shea
+    - me
+    - John Beggs
+  year: 2023
+  preprint: https://arxiv.org/abs/2310.20582
+  venue: Accepted for publication at Network Neuroscience.
+
+pope_timevarying_2024:
+  title: "Time-varying synergy/redundancy dominance in the human cerebral cortex"
+  authors:
+    -me
+    -Thomas F. Varley
+    -Olaf Sporns
+  year: 2024
+  preprint: https://www.biorxiv.org/content/10.1101/2024.06.14.599102v1
+
