@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "pages/about.html",
-    "href": "pages/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
     "text": "Please see my CV here."
+  },
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My list of publications is also on Google Scholar.\nPublished\nMaria Pope, Caio Seguin, Thomas F. Varley, Joshua Faskowitz, and Olaf Sporns, \"Co-evolving dynamics and topology in a coupled oscillator model of resting brain function\", NeuroImage (2023).\n        \n        Code\n     \n        \n        Published\n    \nMaria Pope, Thomas F. Varley, Joshua Faskowitz, and Olaf Sporns, \"Multivariate information theory uncovers synergistic subsystems of the human cerebral cortex\", Communications Biology (2023).\n        \n        Code\n     \n        \n        Published\n    \nThomas F. Varley, Maria Pope, Maria Grazia Puxeddu, Joshua Faskowitz, and Olaf Sporns, \"Partial entropy decomposition reveals higher-order information structures in human brain activity\", PNAS (2023).\n        \n        Published\n    \nEvgeny J. Chumin, Joshua Faskowitz, Farnaz Zamani Esfahlani, Youngheun Jo, Haily Merritt, Jacob Tanner, Sarah A Cutts, Maria Pope, Richard Betzel, and Olaf Sporns, \"Cortico-subcortical interactions in overlapping communities of edge functional connectivity\", NeuroImage (2022).\n        \n        Published\n    \nMaria Pope, Makoto Fukushima, Richard F. Betzel, and Olaf Sporns, \"Modular origins of high-amplitude cofluctuations in fine-scale functional connectivity dynamics\", PNAS (2021).\n        \n        PDF\n     \n        \n        Code\n     \n        \n        Published\n    \nPreprints\n\n\n-, m, e,  , -, T, h, o, m, a, s,  , F, .,  , V, a, r, l, e, y,  , -, O, l, a, f,  , S, p, o, r, n, and s, \"Time-varying synergy/redundancy dominance in the human cerebral cortex\", (2024).\n        \n        Preprint\n    \n\n\nThomas F. Varley, Daniel Havert, Leandro Fosque, Abolfazl Alipour, Naruepon Weerawongphrom, Hiroki Naganobori, Lily O'Shea, Maria Pope, and John Beggs, \"The serotonergic psychedelic N,N-dipropyltryptamine alters information-processing dynamics in cortical neural circuits\", Accepted for publication at Network Neuroscience. (2023).\n        \n        Preprint"
   },
   {
     "objectID": "index.html",
@@ -28,10 +28,10 @@
     "text": "Recent News\n\nJuly 2024: I am giving an invited talk on applications of multivariate information theory to fMRI data at the SIAM Discrete Math conference in Spokane, Washington.\nJuly 2024: “The serotonergic psychedelic N, N-dipropyltryptamine alters information-processing dynamics in cortical neural circuits” was accepted for publication at Network Neuroscience!\nJune 2024: I presented my work, “Time-varying synergy/redundancy dominance of the human cerebral cortex” as a poster at the Network Neuroscience Satellite and a talk at the main conference of NetSci 2024.\nJune 2024: New preprint applying the local O to fMRI data is posted!! “Time-varying synergy/redundancy dominance of the human cerebral cortex”]\nMarch 2024: I met with a classroom of high schoolers to chat about neuroscience through the Skype-a-Scientist program.\nSeptember 2023: I visited Purdue University and presented the poster “Co-evolving dynamics and topology in a coupled oscillator model of resting brain function” at the meeting of the Greater Indiana Society for Neuroscience.\nJuly 2023: I won the Entropy Best ECR Presentation award for my presentation “Multivariate information theory reveals synergistic subsystems of the human cerebral cortex” at the Information Theory Workshop of CNS*2023.\nJuly 2023: I presented a poster “Co-evolving dynamics and topology in a coupled oscillator model of resting brain function” with the work from my most recent paper at NetSci.\nMay 2023: I passed my qualifying exams!!"
   },
   {
-    "objectID": "pages/publications.html",
-    "href": "pages/publications.html",
-    "title": "Publications",
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "About",
     "section": "",
-    "text": "My list of publications is also on Google Scholar.\nPublished\n\nMaria Pope, Caio Seguin, Thomas F. Varley, Joshua Faskowitz, and Olaf Sporns, \"Co-evolving dynamics and topology in a coupled oscillator model of resting brain function\", NeuroImage (2023).\n        \n        Code\n     \n        \n        Published\n    \nMaria Pope, Thomas F. Varley, Joshua Faskowitz, and Olaf Sporns, \"Multivariate information theory uncovers synergistic subsystems of the human cerebral cortex\", Communications Biology (2023).\n        \n        Code\n     \n        \n        Published\n    \nThomas F. Varley, Maria Pope, Maria Grazia Puxeddu, Joshua Faskowitz, and Olaf Sporns, \"Partial entropy decomposition reveals higher-order information structures in human brain activity\", PNAS (2023).\n        \n        Published\n    \nEvgeny J. Chumin, Joshua Faskowitz, Farnaz Zamani Esfahlani, Youngheun Jo, Haily Merritt, Jacob Tanner, Sarah A Cutts, Maria Pope, Richard Betzel, and Olaf Sporns, \"Cortico-subcortical interactions in overlapping communities of edge functional connectivity\", NeuroImage (2022).\n        \n        Published\n    \nMaria Pope, Makoto Fukushima, Richard F. Betzel, and Olaf Sporns, \"Modular origins of high-amplitude cofluctuations in fine-scale functional connectivity dynamics\", PNAS (2021).\n        \n        PDF\n     \n        \n        Code\n     \n        \n        Published\n    \n\nPreprints\n\n\n-, m, e,  , -, T, h, o, m, a, s,  , F, .,  , V, a, r, l, e, y,  , -, O, l, a, f,  , S, p, o, r, n, and s, \"Time-varying synergy/redundancy dominance in the human cerebral cortex\", (2024).\n        \n        Preprint\n    \n\n\nThomas F. Varley, Daniel Havert, Leandro Fosque, Abolfazl Alipour, Naruepon Weerawongphrom, Hiroki Naganobori, Lily O'Shea, Maria Pope, and John Beggs, \"The serotonergic psychedelic N,N-dipropyltryptamine alters information-processing dynamics in cortical neural circuits\", Accepted for publication at Network Neuroscience. (2023).\n        \n        Preprint"
+    "text": "About this site"
   }
 ]
