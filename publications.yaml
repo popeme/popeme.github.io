@@ -65,6 +65,22 @@ chumin_cortico_2022:
   published_url: https://www.sciencedirect.com/science/article/pii/S1053811922001008
   venue: NeuroImage
 
+ragone_modular_2024
+  title: "Modular subgraphs in large-scale connectomes underpin spontaneous co-fluctuation events in mouse and human brains"
+  authors: 
+    - Elisabeth Ragone
+    - Jacob Tanner
+    - Youngheun Jo
+    - Farnaz Zamani Esfahlani
+    - Joshua Faskowitz
+    - me
+    - Ludovico Coletta
+    - Alessandro Gozzi
+    - Richard Betzel
+  year: 2024
+  published_url: https://www.nature.com/articles/s42003-024-05766-w
+  venue: Communications Biology
+
 
 varley_serotonergic_2024:
   title: "The serotonergic psychedelic N,N-dipropyltryptamine alters information-processing dynamics in cortical neural circuits"
