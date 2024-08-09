@@ -18,4 +18,3 @@ Feel free to take a look at the Publications tab if you're interested in what we
 * **September 2023**: I visited Purdue University and presented the poster ["Co-evolving dynamics and topology in a coupled oscillator model of resting brain function"](https://doi.org/10.1016/j.neuroimage.2023.120266) at the meeting of the Greater Indiana Society for Neuroscience.
 * **July 2023**: I won the Entropy Best ECR Presentation award for my presentation ["Multivariate information theory reveals synergistic subsystems of the human cerebral cortex"](https://doi.org/10.1038/s42003-023-04843-w) at the Information Theory Workshop of CNS*2023.
 * **July 2023**: I presented a poster ["Co-evolving dynamics and topology in a coupled oscillator model of resting brain function"](https://doi.org/10.1016/j.neuroimage.2023.120266) with the work from my most recent paper at NetSci.
-* **May 2023**: I passed my qualifying exams!!
